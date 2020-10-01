@@ -5,10 +5,10 @@ Filter by **topic**, **country**, or **language**.
 
 Created by [newscatcherapi.com](https://www.newscatcherapi.com) but you do not need anything from us or from anyone else to get the software going, it just works out of the box.
 
-## Demo
+## Here it is Demo
 ![](newscatcherdemo.gif)
 
-## Motivation
+## Let's Motivate
 While working on [newscatcherapi](https://newscatcherapi.com/) - JSON API 
 to query news articles,
 I came up with an idea to make a simple Python package that would allow
@@ -23,11 +23,11 @@ with your next project.
 Even though I do not recommend to use this package for any production systems, 
 I believe that it should be enough to test your assumptions and build some MVPs.
 
-## Installation
+## how to install ? >>>>
 `pip install newscatcher --upgrade` 
 
 
-## Quick Start
+## Ready to Rock >>>
 ```python
 from newscatcher import Newscatcher
 ```
